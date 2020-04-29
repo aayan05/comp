@@ -1,0 +1,77 @@
+body {
+  background-color: white;
+}
+
+
+  .topnav {
+  	background-color: #9f8bef ;
+  	overflow : hidden ;
+  	height: 50px ;
+  	position: fixed;
+  	top: 0;
+  	width: 100%;
+  	z-index: 2;
+  }
+
+  .topnav a {
+   color: #fff ;
+    text-align: center;
+    padding: 14px 16px;
+    position: relative;
+    top: 10px;
+    }
+
+    .topnav a:hover {
+    	background-color: #becbe8;
+  	color: black;
+    }
+
+   .topnav .current {
+    	background-color: #bee8be;
+  	color: black;
+    }
+    .main {
+      	margin-top:50px;
+      }
+.head {
+  font-family: "Coiny" , cursive;
+
+}
+.mission {
+  font-family: 'Baskervville', serif;
+  font-size: 28px;
+}
+.about {
+  text-align: center;
+  background-color: white;
+}
+.head2 {
+  font-family: "Coiny",cursive;
+}
+td {
+  padding-right: 70px;
+}
+.mem2 {
+  font-size: 16px;
+  font-family: "Robotp Slab" , serif;
+}
+.head3 {
+font-family: "Coiny" , cursive;
+}
+.idea1 {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 75px;
+}
+#idea2 {
+  font-family: "Dancing Script", cursive;
+  font-size: 36px;
+  font-weight: bold;
+}
+.idea2 {
+  font-family: "Caveat", cursive;
+  font-size: 25px;
+}
+.support {
+  margin-left: 50px;
+}
