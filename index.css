@@ -1,5 +1,6 @@
 body {
-  background-color: white;
+  background-color: #9fdcdd;
+
 }
 
 
@@ -43,7 +44,7 @@ body {
 }
 .about {
   text-align: center;
-  background-color: white;
+  
 }
 .head2 {
   font-family: "Coiny",cursive;
