@@ -1,6 +1,6 @@
 body {
   background-color: #9fdcdd;
-
+text-align: justify;
 }
 
 
@@ -78,4 +78,6 @@ font-family: "Coiny" , cursive;
   margin-left: 50px;
 }
   
-  
+.logo_1 img:hover {
+transform: rotate(360deg);
+}
