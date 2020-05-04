@@ -43,6 +43,10 @@
   font-size: 36px;
   font-weight: bold;}
   .app1 {
-    font-family: 'Comic Neue';
+    font-family: 'Roboto Slab';
     font-size: 18px;
   }
+
+#more {
+  display: none;
+}
